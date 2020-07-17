@@ -1,0 +1,106 @@
+
+.phone{
+  background-color:  #ff4c68;
+}
+.container-fluid{
+  padding: 3% 15%;
+  background-color: #ff4c68;
+}
+h1{
+  line-height: 1.5;
+  font-size: 3.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-weight: bold;
+}
+p{
+  color: #8f8f8f;
+}
+.col-lg-6{
+  background-color: #ff4c68;
+}
+.navbar-brand{
+  font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+font-weight: bold;
+}
+.navbar{
+  padding: 0 0 4.5rem;
+}
+.nav-item{
+  padding: 0 15px;
+}
+
+.nav-link{
+  font-family: "Montserrat-light;"
+}
+.Download{
+  margin: 5% 3% 5% 0;
+}
+.sai{
+  width: 60%;
+  margin: 50px;
+}
+
+.col-lg-4{
+  padding: 80px 40px;
+  text-align: center;
+}
+.icon{
+  color: #ef8172;
+  margin: 1rem;
+}
+.icon:hover{
+  color: red;
+}
+.avi{
+  margin: 50px;
+}
+.com{
+  margin:50px;
+}
+h2{
+  color: red;
+  font-size: 3rem;
+}
+.con{
+text-align: center;
+padding-left: 400px;
+padding-right: 400px;
+padding-top:50px;
+padding-bottom: 50px;
+background-color:  #ff4c68;
+color: white;
+font-size: 3rem;
+}
+.carousel-inner{
+  padding: 3% 33%;
+  background-color: #ef8172;
+}
+.pricing{
+  margin: 50px;
+}
+.card-body{
+  text-align: center;
+}
+.card-deck{
+  padding-left: 300px;
+  padding-right: 300px;
+}
+@media(min-width:1000px){
+  .carousel slide{
+    position: static;
+  }
+  }
+.copyright{
+  text-align: center;
+  margin: 20px;
+
+}
+.sq{
+  padding: 5px;
+}
